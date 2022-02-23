@@ -1,3 +1,3 @@
 # Bandit
-Bandit walkthrough (Linux commandline knowledge) '\n'
+Bandit walkthrough (Linux commandline knowledge)
 Flags are not available here.
